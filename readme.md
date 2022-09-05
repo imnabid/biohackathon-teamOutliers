@@ -1,4 +1,4 @@
-##To get started
+**To get started**
 
 -open frontend and backend foldersat different screens of your IDE
 

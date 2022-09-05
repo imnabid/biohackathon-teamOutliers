@@ -1,6 +1,6 @@
 **To get started**
 
--open frontend and backend foldersat different screens of your IDE
+-open frontend and backend folders at different screens of your IDE
 
 -for backend dependencies pip install -r requirements.txt
 

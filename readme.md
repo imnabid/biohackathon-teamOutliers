@@ -1,3 +1,5 @@
+## Bio Hackathon: Team Outliers
+
 **To get started**
 
 -open frontend and backend folders at different screens of your IDE
